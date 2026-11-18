@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "kind": "cli",
+  "setup": [],
+  "verify": ["python", "-m", "handover.desk", "verify"],
+  "demo": ["python", "-m", "handover.desk", "demo"]
+}
